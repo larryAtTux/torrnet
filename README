@@ -1,0 +1,13 @@
+Ebuild
+
+torrnet <file> produces file.torrent or a magnet link
+
+
+  options
+
+  --magnet-link
+  --output-file <desired name>
+  --sign <gpg key holderr or public key>
+  --encrypt <gpg key holder or public key>
+
+
